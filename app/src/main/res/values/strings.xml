@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Books">Books</string>
+    <string name="bell">bell</string>
+    <string name="Reviews">reviews\n</string>
+    <string name="Favorite">favorite\n</string>
+    <string name="Search">Search</string>
+    <string name="Profile">Profile\n</string>
+    <string name="Settings">Settings\n</string>
+    <string name="want_to_read">want_to_read\n</string>
+    <string name="book_image">book_image\n</string>
+    <string name="Notification_clicked" />
+    <string name="review_clicked">review_clicked</string>
+    <string name="favorite_clicked">favorite_clicked</string>
+    <string name="search_clicked">search_clicked</string>
+    <string name="profile_clicked">profile_clicked</string>
+    <string name="settings_clicked">settings_clicked</string>
+    <string name="bell_clicked">bell_clicked</string>
+    <string name="close">close</string>
+
+
+</resources>
